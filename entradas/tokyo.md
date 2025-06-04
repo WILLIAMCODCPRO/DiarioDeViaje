@@ -2,3 +2,6 @@
 
 ## Descripción
 Tokio se identifica como el centro político, económico y cultural de Japón
+
+## Recomendación
+Aprender sopbre su cultura
