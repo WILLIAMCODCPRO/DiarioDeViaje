@@ -9,3 +9,5 @@ Aprender su cultura
 ## Foto
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMFcmwAuZxacL-VhVRJQgnI-DzgBKfHhb2n1urw2DuOw&s)
 
+## Informacion sobre Berlin
+Dice la leyenda, que fue creado en el año 1756 por un pastelero berlinés que quería servir a Federico el Grande (Friedrich der Große) como artillero pero que fue rechazado por motivos de salud
