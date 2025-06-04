@@ -5,3 +5,7 @@ La ciudad de Berlín está situada en el noroeste de Alemania, a orillas de los 
 
 ## Recomendación
 Aprender su cultura
+
+## Foto
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMFcmwAuZxacL-VhVRJQgnI-DzgBKfHhb2n1urw2DuOw&s)
+
