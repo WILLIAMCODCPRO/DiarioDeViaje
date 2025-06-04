@@ -5,3 +5,7 @@ Cuenta con ciento noventa museos que la sitúa como la segunda ciudad con más m
 
 ## Recomendación
 Aprender su cultura
+
+## Foto
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSrts5JgEEfMp9QSdpM9qN6Dz6v6jxwYMB1U4gilvJ&s)
+
