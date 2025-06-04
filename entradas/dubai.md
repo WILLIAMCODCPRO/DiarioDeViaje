@@ -5,3 +5,7 @@ Dubái, una ciudad y emirato en los Emiratos Árabes Unidos, se destaca por su l
 
 ## Recomendación
 Aprender su cultura
+
+## Foto
+![](https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRtvxG6a-AAZjWdXLTJDNwusdF_QSlalC9Ddn1o-dQZAKO8Gq_M7Qo3ebvgzpqN76uxz9sZCfqxtHEjH4v0Li8RgYk07JzwyUgjIseKRQ)
+
