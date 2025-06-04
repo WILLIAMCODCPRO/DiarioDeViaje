@@ -5,3 +5,7 @@ Se ha dicho de Nueva York que es «la ciudad que nunca duerme», «la ciudad de 
 
 ## Recomendación
 Aprender de su cultura
+
+## Foto
+![](https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTlaRxX0Cz3hck1gbVVol7QtTCbkbSQwYEQmgtJGC-AOJ7xYr3NZWWsiWFpTMkuWAEaRUg3N5dViVDsYnxteaHTASEED6lyhVRMVwYMsQ)
+
